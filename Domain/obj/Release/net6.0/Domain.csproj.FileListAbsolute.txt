@@ -1,0 +1,12 @@
+D:\myProjects\AccountingApp\Domain\bin\Release\net6.0\Domain.deps.json
+D:\myProjects\AccountingApp\Domain\bin\Release\net6.0\Domain.dll
+D:\myProjects\AccountingApp\Domain\bin\Release\net6.0\Domain.pdb
+D:\myProjects\AccountingApp\Domain\obj\Release\net6.0\Domain.csproj.AssemblyReference.cache
+D:\myProjects\AccountingApp\Domain\obj\Release\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\myProjects\AccountingApp\Domain\obj\Release\net6.0\Domain.AssemblyInfoInputs.cache
+D:\myProjects\AccountingApp\Domain\obj\Release\net6.0\Domain.AssemblyInfo.cs
+D:\myProjects\AccountingApp\Domain\obj\Release\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\myProjects\AccountingApp\Domain\obj\Release\net6.0\Domain.dll
+D:\myProjects\AccountingApp\Domain\obj\Release\net6.0\refint\Domain.dll
+D:\myProjects\AccountingApp\Domain\obj\Release\net6.0\Domain.pdb
+D:\myProjects\AccountingApp\Domain\obj\Release\net6.0\ref\Domain.dll

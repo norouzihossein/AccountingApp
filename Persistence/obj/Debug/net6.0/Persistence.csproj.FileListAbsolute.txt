@@ -1,0 +1,17 @@
+D:\myProjects\AccountingApp\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\myProjects\AccountingApp\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+D:\myProjects\AccountingApp\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\myProjects\AccountingApp\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\myProjects\AccountingApp\Persistence\bin\Debug\net6.0\Domain.dll
+D:\myProjects\AccountingApp\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\myProjects\AccountingApp\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\myProjects\AccountingApp\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\myProjects\AccountingApp\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\myProjects\AccountingApp\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\myProjects\AccountingApp\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\myProjects\AccountingApp\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\myProjects\AccountingApp\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\myProjects\AccountingApp\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\myProjects\AccountingApp\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\myProjects\AccountingApp\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
+D:\myProjects\AccountingApp\Persistence\obj\Debug\net6.0\ref\Persistence.dll
